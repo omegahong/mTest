@@ -1,7 +1,6 @@
-##Java Coding Challenge
+## Java Coding Challenge
 
-####Objectvie
-
+#### Objectvie
 Your objective is to build an incredible experience for a simple rest service to retrieve user's information, while at the same time impressing us with how simple and clean your code is.
 
 We receive many submissions daily, yours needs to stand out. We'd love to be impressed by the coding style, by the unit test, and by the little touches that make it slick.
@@ -23,7 +22,7 @@ E.g.,
 
 5. Optional: Security, in most cases, a token is required to authorize the access of an endpoint. To make it happen, we expect to see a simple and general security control.
 
-####Evaluation your solution
+#### Evaluation your solution
 
 1. We were able to run your code using `./mvnw`
 
@@ -35,7 +34,7 @@ E.g.,
 
 5. Errors - handle errors gracefully
 
-####Submission
+#### Submission
 
 * Do not place your code on GitHub or any other source version control platform.
 
