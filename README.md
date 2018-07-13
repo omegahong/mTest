@@ -3,7 +3,11 @@
 #### Objectvie
 Your objective is to build an incredible experience for a simple rest service to retrieve user's information, while at the same time impressing us with how simple and clean your code is.
 
+Please utilize this clean sprint boot project. Run it by typing `./mvnw` in command line.
+
 We receive many submissions daily, yours needs to stand out. We'd love to be impressed by the coding style, by the unit test, and by the little touches that make it slick.
+
+
 
 #### Requirments
 1. Endpoint A: by typing url _http://localhost:8080/users_ in a browser, we expect a list of users returning in JSON format.
